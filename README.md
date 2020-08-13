@@ -10,7 +10,7 @@ GHUB-INFO is a program to find open source info about any github profile Like <b
 👉 Download and Open your repo in just one click 
 
 # SCREENSHOT 📸
-![](ss/ss.PNG)
+<img src="ss/ss.PNG" width="700" height="700" alt="logo">
 
 ## Contact Me ☎
 
