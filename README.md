@@ -1,12 +1,16 @@
 <p align="center"><img src="top-img.png" width="700" height="200" alt="logo"></p>
-<p align="center"><b>GHUB-INFO | Find your github info from one place</b></p>
+<p align="center"><b>GHUB-INFO | Find open source info about any github profile</b></p>
 
 # GHUB-INFO
+GHUB-INFO is a program to find open source info about any github profile Like <b>(followers, stars, following, country, organization, etc)</b>
+
+# Features 🌟
+👉 Find your repo easily
+
+👉 Download and Open your repo in just one click 
 
 # SCREENSHOT 📸
 ![](ss/ss.PNG)
-
-# HOW TO USE?
 
 ## Contact Me ☎
 
