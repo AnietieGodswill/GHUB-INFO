@@ -3,7 +3,7 @@
 
 # GHUB-INFO
 GHUB-INFO is a program to find open source info about any github profile Like <b>(followers, stars, following, country, organization, etc)</b>
-
+ you can also download exe of this program [**from here**](https://sourceforge.net/projects/ghub-info/) 
 # Features 🌟
 👉 Find your repo easily
 
